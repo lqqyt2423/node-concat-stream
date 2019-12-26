@@ -1,15 +1,23 @@
 {
   "name": "node-concat-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Combine multiple readable streams into one.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [
     "concat stream",
     "combine stream"
   ],
   "author": "liqiqiang",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqqyt2423/node-concat-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lqqyt2423/node-concat-stream/issues"
+  },
+  "homepage": "https://github.com/lqqyt2423/node-concat-stream#readme"
 }
